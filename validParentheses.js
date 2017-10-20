@@ -2,7 +2,7 @@
 const isValid = s => {
     let stack = [];
     let mapping = {
-        '{': '}',
+        '{':'}',
         '[':']',
         '(':')'
     };
