@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/valid-parentheses/
 const isValid = s => {
+<<<<<<< HEAD
   let stack = [];
   let mapping = {
     '{':'}',
