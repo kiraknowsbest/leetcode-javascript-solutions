@@ -7,3 +7,10 @@ Solutions so far:
   -reverse string
   -two sum
   -serialize and deserealize a binary tree
+  -valid parenthesis
+  -first unique character in a string
+  -reverse linked list
+  -number of islands
+  -lowest common ancestor of a binary tree
+  -longest substring without repeating characters
+  -palindrome number
