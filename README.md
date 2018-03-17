@@ -16,3 +16,4 @@ Each file will contain a URL link to the question for which the answer is writte
   -longest substring without repeating characters  
   -palindrome number  
   -judge route circle  
+  -single number
