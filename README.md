@@ -17,3 +17,5 @@ Each file will contain a URL link to the question for which the answer is writte
   -palindrome number  
   -judge route circle  
   -single number
+  -maximum depth of binary tree
+  -move zeroes
